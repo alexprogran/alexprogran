@@ -1,9 +1,9 @@
-<h1 align="center">Oi👋, eu sou Alex Neves</h1>
-<h3 align="center">Um desenvolvedor python django apaixonado em criar aplicações</h3>
+<h1 align="center">Oi👋, eu sou Alex </h1>
+<h3 align="center">Full stack developer</h3>
 
-- 🔭Atualmente estou trabalhando na aplicação web [Sistem Carden](https://github.com/alexprogran/sistem_carden)
+- 🔭Atualmente trabalho realizando freelance, desenvolvendo sistemas totlamente do zero.
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, SQL, Python, Django**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React , SQL, Banco de dados ,Python, Django**
 
 - 📫 Você me acha através do email **alexprogran@gmail.com**
 
